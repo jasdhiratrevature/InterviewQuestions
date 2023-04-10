@@ -4,8 +4,10 @@
 ### Question 5 : Features of Angular 
 - Have Modified the answer
 - can use this as reference https://angular.io/features
-### Question 8. in the answer point 2 use from instead of room
-### Question 17. Please update answer to 
+### Question 8. 
+in the answer point 2 use from instead of room
+### Question 17. 
+Please update answer to 
 **Updated Answer**
 Version 15
 Angular 15 was released on 16 November 2022."
