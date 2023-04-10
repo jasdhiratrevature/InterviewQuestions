@@ -10,7 +10,7 @@ in the answer point 2 use from instead of room
 Please update answer to 
 *Updated Answer*
 Version 15
-Angular 15 was released on 16 November 2022."
+Angular 15 was released on 16 November 2022.
 ---
 
 ## How SPA is different from traditional webapplications
