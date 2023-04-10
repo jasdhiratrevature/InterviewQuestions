@@ -1,3 +1,6 @@
+## Changes
+Modified answers to  questions 1,2,3,5,6,8,9,12,13
+---
 ## What is AWS ?
 
 ### Explanation
