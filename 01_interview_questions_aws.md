@@ -22,7 +22,7 @@ It provides those services as :
 
 ---
 
-## What are the import/most common components/services of AWS that you have used?
+## What are the important/most common components/services of AWS that you have used?
 
 ### Explanation
 
