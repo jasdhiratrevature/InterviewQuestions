@@ -109,6 +109,7 @@ An AMI includes the following:
 - A block device mapping that specifies the volumes to attach to the instance when it's launched.
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+
 ---
 ## Why do you use policies in AWS and how many types of policies are in AWS?
 

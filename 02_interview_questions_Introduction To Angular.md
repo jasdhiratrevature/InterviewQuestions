@@ -15,6 +15,17 @@ Version 15
 
 Angular 15 was released on 16 November 2022
 
+### Question 21.
+Please update the answer spilling mistake
+npm install -g @angular/clip *remove p from clip it should be*
+
+npm install -g @angular/cli
+
+### Question 27. 
+Rephrase the answer , in particular last paragraph.
+*commis and used* should be *command is used*
+
+
 ---
 
 ## How SPA is different from traditional webapplications
